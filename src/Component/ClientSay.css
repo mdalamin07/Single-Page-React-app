@@ -1,0 +1,26 @@
+.client h1{
+    font-size: 2.4rem;
+}
+
+.client_message{
+    font-size: 1rem;
+    border: .1rem solid #bebebe;
+    padding: 1rem;
+}
+
+img.client {
+    width: 15%;
+    height: auto;
+    border-radius: 50%;
+    float: right;
+    margin-left: .5rem;
+}
+.client span{
+    float: right;
+    font-weight: bold;
+    font-size: .9rem;
+}
+.client span p{
+    font-size: .8rem;
+    font-weight: 200;
+}

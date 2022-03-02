@@ -1,0 +1,16 @@
+#portfolio{
+    color: #fff;
+    background-image: linear-gradient(rgba(0,0,0,.82),rgba(0,0,0,.82)),url(../Component/image/swf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#portfolio button{
+    font-size: .8rem;
+}
+.skill h1{
+    font-size: 2.4rem;
+}
+.my_skill span{
+    font-size: .8rem;
+}

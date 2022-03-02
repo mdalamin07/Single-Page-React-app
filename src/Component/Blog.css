@@ -1,0 +1,24 @@
+#blog h1{
+    font-size: 2.4rem;
+}
+
+.blog_card h5{
+    font-size: .9rem;
+    font-weight: bold;
+}
+.blog_card p{
+    font-size: .8rem;
+}
+.bottom_blog{
+    color: #fff;
+    background-color: #0bae5c;
+}
+.bottom_blog h3{
+    font-size: .12.01rem;
+}
+.bottom_blog p{
+    font-size: .8.1rem;
+}
+.bottom_blog button{
+    font-size: .8rem;
+}

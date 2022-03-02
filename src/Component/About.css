@@ -1,0 +1,28 @@
+#about h1{
+    color: #000;
+    font-size: 2.4rem;
+}
+.mycard_img{
+    position: absolute;
+    top: -1.5rem;
+    left: 44%;
+}
+.abcard .card-title{
+    font-size: .9rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: .5rem;
+}
+.abcard .card-text{
+    font-size: .8rem;
+    text-align: center;
+}
+.story {
+    color: #fff;
+    background-image: linear-gradient(rgba(139,139,139,.31),rgba(0,0,0,.58)),url(../Component/image/story1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.story button{
+    font-size: .8rem;
+}
